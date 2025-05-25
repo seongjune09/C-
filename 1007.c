@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(void) {
-    printf("\"!@#$%%^&*()\"");
+    printf("\"C:\\Download\\hello.cpp\"");
     return 0;
 }
